@@ -21,8 +21,8 @@ function App() {
         role: "student"
       },
       {
-        name: "Michael",
-        email: "michael@email.com",
+        name: "Jon",
+        email: "Jon@email.com",
         role: "student"
       }
     ]
